@@ -1,47 +1,66 @@
-<div align="center">
-
 # 👋 Hi, I'm Mohammad Shalaha
 
-### 💻 Computer Science Engineer | 🐍 Python Developer | 📊 Data & Technology Enthusiast
+### 💻 Computer Science Engineer | Python Developer | Data Science Enthusiast
 
-*Turning ideas into practical software and continuously learning how technology works.*
+Welcome to my GitHub profile! 🚀
 
-<p>
-  <a href="https://github.com/shalahthaikkadan">
-    <img src="https://komarev.com/ghpvc/?username=shalahthaikkadan&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/shalahthaikkadan?tab=followers">
-    <img src="https://img.shields.io/github/followers/shalahthaikkadan?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
-  </a>
-  <a href="https://github.com/shalahthaikkadan?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=flat" alt="Repositories"/>
-  </a>
-</p>
+I'm a Computer Science & Engineering graduate passionate about building practical software solutions, learning new technologies, and turning ideas into real-world projects.
 
-</div>
+I enjoy working with **Python, Data Science, Web Development, SQL, Git, IoT, and AI-based applications**.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science Engineering graduate** who enjoys building practical software and exploring modern technologies.
-
-My journey started with programming fundamentals and gradually expanded into **Python development, databases, web development, data science, artificial intelligence, computer vision, Git/GitHub, and embedded systems**.
-
-I enjoy taking an idea, breaking it into smaller problems, and turning it into a working project.
-
-> 🚀 **Learn → Build → Break → Fix → Improve → Repeat**
-
-I'm currently focused on strengthening my programming skills, exploring data-driven technologies, and building projects that solve real-world problems.
+🎓 **B.Tech in Computer Science & Engineering**  
+🏫 Royal College of Engineering and Technology, Kerala  
+🐍 Passionate about **Python & Software Development**  
+📊 Currently exploring **Data Science & Data Analytics**  
+🌐 Interested in **Web Development & Backend Development**  
+🤖 Experience with **AI, IoT & Computer Vision projects**  
+🛠️ Building projects to improve my practical programming skills  
+📚 Continuously learning through coding practice and real-world projects
 
 ---
 
-## 🎯 What I'm Currently Exploring
+## 🚀 Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### 🤖 AI / Computer Vision
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=ultralytics&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🔌 Hardware & IoT
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+# 🧠 What I'm Learning
 
 ```text
-🐍 Python                  ████████████████████
-📊 Data Science            ███████████████░░░░░
-🗄️ SQL & Databases         ███████████████░░░░░
-🤖 AI & Machine Learning    █████████████░░░░░░░
-🌐 Web Development         █████████████░░░░░░░
-🐙 Git & GitHub             █████████████████░░░
+Python
+   ↓
+Data Analysis
+   ↓
+Data Science
+   ↓
+Machine Learning
+   ↓
+Real-World Projects
