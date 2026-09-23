@@ -1,6 +1,6 @@
 <div align="center">
 
-Mohammad Shalaha
+Mohammad Shalah
 
 Computer Science Engineer • Python Developer • Technology Enthusiast
 
