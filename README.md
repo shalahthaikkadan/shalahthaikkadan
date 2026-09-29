@@ -112,29 +112,6 @@ A project designed to simplify employee incentive, deduction, and payroll-relate
 
 ---
 
-# 🐍 Python Practice
-
-I regularly practice Python programming and problem solving through coding challenges and projects.
-
-```text
-✔ Python Basics
-✔ Functions
-✔ Lists & Tuples
-✔ Dictionaries
-✔ Strings
-✔ Loops
-✔ Conditional Statements
-✔ Object-Oriented Programming
-✔ Classes & Objects
-✔ Recursion
-✔ *args & **kwargs
-✔ File Handling
-✔ Problem Solving
-✔ Codewars Challenges
-```
-
----
-
 # 📊 Currently Learning
 
 ```text
