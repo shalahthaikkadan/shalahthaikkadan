@@ -8,6 +8,12 @@ I'm a Computer Science & Engineering graduate passionate about building practica
 
 I enjoy working with **Python, Data Science, Web Development, SQL, Git, IoT, and AI-based applications**.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shalahthaikkadan&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shalahthaikkadan?label=FOLLOWERS&style=flat-square&color=007ec6" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shalahthaikkadan&query=$.public_repos&label=REPOSITORIES&style=flat-square&color=007ec6" alt="Repositories" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
