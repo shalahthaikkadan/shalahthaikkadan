@@ -78,37 +78,42 @@ An intelligent waste sorting system designed to automatically detect and segrega
 
 ---
 
-## 🤖 RCET College Chatbot
+## 📄 AI Resume Analyzer
 
-A web-based chatbot designed to assist students with information and queries related to **Royal College of Engineering and Technology**.
+[🔗 View Repository](https://github.com/shalahthaikkadan/Resume-Analyzer)
+
+An AI-powered recruitment platform that analyzes, scores, and ranks applicant resumes, then generates a personalized technical quiz for each candidate.
 
 **Technologies:**
-`Python` `Flask` `NLP` `MySQL` `HTML` `CSS`
+`Python` `Django REST Framework` `Celery` `Redis` `Google Gemini API` `Tailwind CSS` `JavaScript`
 
 ### Key Features
 
-* 🎓 College information
-* 💬 Student query handling
-* 🔎 Intent-based responses
-* 🗄️ Database integration
-* 🌐 Web interface
+* 📑 PDF and DOCX resume parsing
+* 🧠 AI-generated scorecard (skills, experience, red flags, positive indicators)
+* 📝 Auto-generated 10-question quiz based on the candidate's skills
+* 📊 Admin dashboard with applicants ranked by AI score
+* ⚡ Background processing with Celery and Redis
+* 🔐 JWT-based authentication
 
 ---
 
-## 💰 AI-Based Incentive Payroll System
+## 🌊 Career Sea
 
-A project designed to simplify employee incentive, deduction, and payroll-related calculations.
+[🔗 View Repository](https://github.com/shalahthaikkadan/Career-Sea) | [🌐 Live Demo](https://careersea.in)
+
+An AI-powered career discovery platform that provides personalized career pathways, learning roadmaps, and interactive AI mentoring. *(Team project — contributor)*
 
 **Technologies:**
-`Python` `Excel` `Data Processing` `Automation`
+`React` `Vite` `Tailwind CSS` `TypeScript` `Cloudflare Workers` `PostgreSQL` `Google Gemini API`
 
-### Features
+### Key Features
 
-* Employee data management
-* Incentive calculation
-* Deduction management
-* Payroll processing
-* Automated calculations
+* 🧭 Three personalized career directions per assessment (mainstream, adjacent, wildcard)
+* 🗺️ Step-by-step learning roadmaps with detailed study guides
+* 💬 Context-aware AI mentor chat
+* 🔐 Secure JWT authentication
+* ⚡ Edge-based architecture with automated CI/CD via GitHub Actions
 
 ---
 
