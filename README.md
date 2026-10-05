@@ -1,203 +1,243 @@
-<!-- ======================= HEADER BANNER ======================= -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohammad%20Shalah&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Python%20Developer%20%7C%20Data%20Science%20Enthusiast&descSize=16&descAlignY=60" alt="Mohammad Shalah" width="100%"/>
-</h1>
+# 👋 Hi, I'm Mohammad Shalah
+
+### 💻 Computer Science Engineer | Python Developer | Data Science Enthusiast
+
+Welcome to my GitHub profile! 🚀
+
+I'm a Computer Science & Engineering graduate passionate about building practical software solutions, learning new technologies, and turning ideas into real-world projects
+
+I enjoy working with **Python, Data Science, Web Development, SQL, Git, IoT, and AI-based applications**.
 
 <p align="center">
-  <a href="https://github.com/shalahthaikkadan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9FDB&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+%26+Web+Development;Data+Science+%26+Machine+Learning;AI+%2B+IoT+%2B+Computer+Vision;Building+practical%2C+real-world+software" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shalahthaikkadan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shalahthaikkadan?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shalahthaikkadan&query=$.public_repos&label=Repositories&style=flat-square&color=0e75b6" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-success?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" alt="Open to work" />
-</p>
-
-<p align="center">
-  <a href="mailto:shalahthaikkadan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://careersea.in"><img src="https://img.shields.io/badge/Live%20Project-Career%20Sea-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Career Sea"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shalahthaikkadan&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shalahthaikkadan?label=FOLLOWERS&style=flat-square&color=007ec6" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shalahthaikkadan&query=$.public_repos&label=REPOSITORIES&style=flat-square&color=007ec6" alt="Repositories" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science & Engineering** graduate from **Royal College of Engineering and Technology, Kerala**, focused on building practical software that solves real problems. My work spans **backend development, AI-powered applications, data analysis, and embedded IoT systems**.
-
-```python
-class MohammadShalah:
-    role       = "Computer Science Engineer"
-    focus      = ["Python Development", "Backend Systems", "Data Science", "AI & Automation"]
-    education  = "B.Tech CSE — Royal College of Engineering and Technology"
-    based_in   = "Kerala, India"
-    learning   = ["Machine Learning", "Data Visualization", "Advanced SQL"]
-    approach   = "Learn → Build → Break → Fix → Improve → Repeat"
-```
+🎓 **B.Tech in Computer Science & Engineering**
+🏫 Royal College of Engineering and Technology, Kerala
+🐍 Passionate about **Python & Software Development**
+📊 Exploring **Data Science & Data Analytics**
+🌐 Interested in **Web & Backend Development**
+🤖 Experience with **AI, IoT & Computer Vision**
+🛠️ Building practical projects to improve my development skills
+📚 Continuously learning through coding, projects, and problem solving
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" alt="Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flask,django,redis,cloudflare" alt="Backend"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI & Computer Vision</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"/>
-      <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO"/>
-      <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Hardware & IoT</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="IoT"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools & DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" alt="Tools"/>
-    </td>
-  </tr>
-</table>
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🌐 Web Development
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+
+### 🤖 AI & Computer Vision
+
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge\&logo=ultralytics\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+### 🔌 Hardware & IoT
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📄 [AI Resume Analyzer](https://github.com/shalahthaikkadan/Resume-Analyzer)
+## 🗑️ AI-Based Smart Waste Segregation System
 
-An AI-powered recruitment platform that parses, scores, and ranks applicant resumes, then generates a personalized technical quiz for each candidate.
+An intelligent waste sorting system designed to automatically detect and segregate different types of waste.
 
-- Parses **PDF and DOCX** resumes
-- AI-generated scorecard covering skills, experience, red flags, and positive indicators
-- Auto-generated **10-question quiz** tailored to each candidate's skills
-- Admin dashboard with applicants **ranked by AI score**
-- Asynchronous background processing with **Celery + Redis**
-- Secure **JWT-based authentication**
+**Technologies:**
+`Python` `YOLO` `OpenCV` `Raspberry Pi` `Picamera2` `Sensors` `Stepper Motor`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Key Features
+
+* 📷 Camera-based waste detection
+* 🤖 AI-powered object detection
+* ♻️ Automatic waste segregation
+* 📡 Sensor-based monitoring
+* ⚙️ Automated conveyor mechanism
+* 🖥️ Raspberry Pi-based processing
 
 ---
 
-### 🌊 [Career Sea](https://github.com/shalahthaikkadan/Career-Sea) · [Live Demo](https://careersea.in)
+## 📄 AI Resume Analyzer
 
-An AI-powered career discovery platform offering personalized career pathways, learning roadmaps, and an interactive AI mentor. *(Team project — contributor)*
+[🔗 View Repository](https://github.com/shalahthaikkadan/Resume-Analyzer)
 
-- Three personalized career directions per assessment: **mainstream, adjacent, and wildcard**
-- Step-by-step **learning roadmaps** with detailed study guides
-- Context-aware **AI mentor chat**
-- Secure **JWT authentication**
-- **Edge-based architecture** with automated CI/CD via GitHub Actions
+An AI-powered recruitment platform that analyzes, scores, and ranks applicant resumes, then generates a personalized technical quiz for each candidate.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+**Technologies:**
+`Python` `Django REST Framework` `Celery` `Redis` `Google Gemini API` `Tailwind CSS` `JavaScript`
 
----
+### Key Features
 
-### 🗑️ AI-Based Smart Waste Segregation System
-
-An intelligent waste sorting system that automatically detects and segregates different types of waste using computer vision on embedded hardware.
-
-- Camera-based waste detection with **YOLO** object detection
-- Automatic segregation through an **automated conveyor mechanism**
-- Sensor-based monitoring with **stepper motor** control
-- Real-time processing on **Raspberry Pi**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square&logo=ultralytics&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+* 📑 PDF and DOCX resume parsing
+* 🧠 AI-generated scorecard (skills, experience, red flags, positive indicators)
+* 📝 Auto-generated 10-question quiz based on the candidate's skills
+* 📊 Admin dashboard with applicants ranked by AI score
+* ⚡ Background processing with Celery and Redis
+* 🔐 JWT-based authentication
 
 ---
 
-## 📊 GitHub Analytics
+## 🌊 Career Sea
+
+[🔗 View Repository](https://github.com/shalahthaikkadan/Career-Sea) | [🌐 Live Demo](https://careersea.in)
+
+An AI-powered career discovery platform that provides personalized career pathways, learning roadmaps, and interactive AI mentoring. *(Team project — contributor)*
+
+**Technologies:**
+`React` `Vite` `Tailwind CSS` `TypeScript` `Cloudflare Workers` `PostgreSQL` `Google Gemini API`
+
+### Key Features
+
+* 🧭 Three personalized career directions per assessment (mainstream, adjacent, wildcard)
+* 🗺️ Step-by-step learning roadmaps with detailed study guides
+* 💬 Context-aware AI mentor chat
+* 🔐 Secure JWT authentication
+* ⚡ Edge-based architecture with automated CI/CD via GitHub Actions
+
+---
+
+# 📊 Currently Learning
+
+```text
+🐍 Python
+   ↓
+🗄️ SQL
+   ↓
+📊 Data Analysis
+   ↓
+📈 Data Visualization
+   ↓
+🤖 Machine Learning
+   ↓
+🧠 Data Science
+   ↓
+🚀 Real-World Projects
+```
+
+---
+
+# 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+* 🐍 Python Development
+* 📊 Data Analysis
+* 📈 Data Science
+* 🌐 Backend Development
+* 🤖 Machine Learning
+* 🗄️ SQL & Database Development
+* 💡 AI & Automation
+* 💻 Software Development
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shalahthaikkadan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalahthaikkadan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalahthaikkadan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalahthaikkadan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Currently Focused On
+# 📚 My Development Journey
 
-| Area | Focus |
-|------|-------|
-| 🐍 **Python & Backend** | Building scalable APIs and services |
-| 🗄️ **SQL & Databases** | Query optimization and data modeling |
-| 📈 **Data Analysis & Visualization** | Turning raw data into insight |
-| 🤖 **Machine Learning** | Applied ML and AI-driven automation |
+```text
+🎓 Computer Science Engineering
+          │
+          ▼
+      🐍 Python
+          │
+          ▼
+   🌐 Web Development
+          │
+          ▼
+      🗄️ SQL / DB
+          │
+          ▼
+      🤖 AI / IoT
+          │
+          ▼
+    📊 Data Science
+          │
+          ▼
+   🚀 Real-World Projects
+```
 
 ---
 
-## 💼 Open To
+# 💡 My Philosophy
 
-- Python Development
-- Backend Development
-- Data Analysis & Data Science
-- Machine Learning
-- SQL & Database Development
-- AI & Automation
+> **Learn → Build → Break → Fix → Improve → Repeat.**
+
+I believe the best way to learn technology is through practical projects, problem solving, experimentation, and continuous improvement.
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to **collaboration, internships, and full-time opportunities**. Reach out through any of the channels below.
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:shalahthaikkadan@gmail.com"><img src="https://img.shields.io/badge/shalahthaikkadan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/"><img src="https://img.shields.io/badge/LinkedIn-Shalah%20Thaikkadan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/shalahthaikkadan"><img src="https://img.shields.io/badge/GitHub-shalahthaikkadan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<a href="mailto:shalahthaikkadan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shalahthaikkadan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center">
-  <i>If you find my projects useful, a ⭐ on the repositories is always appreciated.</i>
-</p>
+### 📧 Email
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+**[shalahthaikkadan@gmail.com](mailto:shalahthaikkadan@gmail.com)**
+
+### 💼 LinkedIn
+
+**[linkedin.com/in/shalah-thaikkadan-40142b32b](https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/)**
+
+### 🐙 GitHub
+
+**[github.com/shalahthaikkadan](https://github.com/shalahthaikkadan)**
+
+---
+
+# ⭐ Thanks for Visiting!
+
+If you find my projects useful, feel free to ⭐ **star** the repositories.
+
+I'm always interested in **learning, collaborating, building projects, and exploring new technologies.**
+
+### 🚀 Keep Learning. Keep Building. Keep Growing.
+
+**— Mohammad Shalah**
