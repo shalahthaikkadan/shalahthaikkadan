@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm a Computer Science & Engineering graduate passionate about building practical software solutions, learning new technologies, and turning ideas into real-world projects
+I'm a Computer Science & Engineering graduate passionate about building practical software solutions, learning new technologies, and turning ideas into real-world projects.
 
 I enjoy working with **Python, Data Science, Web Development, SQL, Git, IoT, and AI-based applications**.
 
