@@ -1,167 +1,65 @@
-# 👋 Hi, I'm Mohammad Shalah
-
-### 💻 Computer Science Engineer | Python Developer | Data Science Enthusiast
-
-Welcome to my GitHub profile! 🚀
-
-I'm a Computer Science & Engineering graduate passionate about building practical software solutions, learning new technologies, and turning ideas into real-world projects.
-
-I enjoy working with **Python, Data Science, Web Development, SQL, Git, IoT, and AI-based applications**.
-
----
-
-## 👨‍💻 About Me
-
-🎓 **B.Tech in Computer Science & Engineering**
-🏫 Royal College of Engineering and Technology, Kerala
-🐍 Passionate about **Python & Software Development**
-📊 Exploring **Data Science & Data Analytics**
-🌐 Interested in **Web & Backend Development**
-🤖 Experience with **AI, IoT & Computer Vision**
-🛠️ Building practical projects to improve my development skills
-📚 Continuously learning through coding, projects, and problem solving
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🌐 Web Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
-
-### 🤖 AI & Computer Vision
-
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge\&logo=ultralytics\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-### 🔌 Hardware & IoT
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-## 🗑️ AI-Based Smart Waste Segregation System
-
-An intelligent waste sorting system designed to automatically detect and segregate different types of waste.
-
-**Technologies:**
-`Python` `YOLO` `OpenCV` `Raspberry Pi` `Picamera2` `Sensors` `Stepper Motor`
-
-### Key Features
-
-* 📷 Camera-based waste detection
-* 🤖 AI-powered object detection
-* ♻️ Automatic waste segregation
-* 📡 Sensor-based monitoring
-* ⚙️ Automated conveyor mechanism
-* 🖥️ Raspberry Pi-based processing
-
----
-
-## 📄 AI Resume Analyzer
-
-[🔗 View Repository](https://github.com/shalahthaikkadan/Resume-Analyzer)
-
-An AI-powered recruitment platform that analyzes, scores, and ranks applicant resumes, then generates a personalized technical quiz for each candidate.
-
-**Technologies:**
-`Python` `Django REST Framework` `Celery` `Redis` `Google Gemini API` `Tailwind CSS` `JavaScript`
-
-### Key Features
-
-* 📑 PDF and DOCX resume parsing
-* 🧠 AI-generated scorecard (skills, experience, red flags, positive indicators)
-* 📝 Auto-generated 10-question quiz based on the candidate's skills
-* 📊 Admin dashboard with applicants ranked by AI score
-* ⚡ Background processing with Celery and Redis
-* 🔐 JWT-based authentication
-
----
-
-## 🌊 Career Sea
-
-[🔗 View Repository](https://github.com/shalahthaikkadan/Career-Sea) | [🌐 Live Demo](https://careersea.in)
-
-An AI-powered career discovery platform that provides personalized career pathways, learning roadmaps, and interactive AI mentoring. *(Team project — contributor)*
-
-**Technologies:**
-`React` `Vite` `Tailwind CSS` `TypeScript` `Cloudflare Workers` `PostgreSQL` `Google Gemini API`
-
-### Key Features
-
-* 🧭 Three personalized career directions per assessment (mainstream, adjacent, wildcard)
-* 🗺️ Step-by-step learning roadmaps with detailed study guides
-* 💬 Context-aware AI mentor chat
-* 🔐 Secure JWT authentication
-* ⚡ Edge-based architecture with automated CI/CD via GitHub Actions
-
----
-
----
-
-# 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm Mohammad Shalah</h1>
+<h3 align="center">AI Engineer | Generative AI, LLMs, Agents & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalahthaikkadan&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:shalahthaikkadan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </p>
 
 ---
 
+### 🚀 About Me
+- 🌱 I’m currently focused on **Generative AI, Large Language Models (LLMs), AI Agents, and Data Science**.
+- 💼 Working as part of **skillpod** based in Kochi, Kerala.
+- 🎓 Computer Science & Engineering graduate passionate about building intelligent, real-world AI applications.
+- ⚡ Fun fact: I love prompt engineering, workflow automation, and exploring cinematic automotive concepts.
+
 ---
 
-# 🌐 Connect With Me
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-
-<a href="mailto:shalahthaikkadan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  
+  <!-- AI / ML & Frameworks -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  
+  <!-- Web Tech & Tools -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
 </p>
-
-### 📧 Email
-
-**[shalahthaikkadan@gmail.com](mailto:shalahthaikkadan@gmail.com)**
-
-### 💼 LinkedIn
-
-**[linkedin.com/in/shalah-thaikkadan-40142b32b](https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/)**
-
 
 ---
 
-# ⭐ Thanks for Visiting!
+### 📈 GitHub Stats
 
-If you find my projects useful, feel free to ⭐ **star** the repositories.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shalahthaikkadan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shalah's GitHub Stats" />
+</p>
 
-I'm always interested in **learning, collaborating, building projects, and exploring new technologies.**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shalahthaikkadan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### 🚀 Keep Learning. Keep Building. Keep Growing.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalahthaikkadan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-**— Mohammad Shalah**
+---
+
+### 💬 Let's Connect
+- **LinkedIn:** [Shalah Thaikkadan](https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/)
+- **Location:** Kochi / Malappuram, Kerala
+
+<p align="center">
+  <i>"Build • Learn • Grow • Repeat"</i>
+</p>
