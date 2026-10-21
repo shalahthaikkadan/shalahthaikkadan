@@ -117,40 +117,7 @@ An AI-powered career discovery platform that provides personalized career pathwa
 
 ---
 
-# 📊 Currently Learning
 
-```text
-🐍 Python
-   ↓
-🗄️ SQL
-   ↓
-📊 Data Analysis
-   ↓
-📈 Data Visualization
-   ↓
-🤖 Machine Learning
-   ↓
-🧠 Data Science
-   ↓
-🚀 Real-World Projects
-```
-
----
-
-# 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-* 🐍 Python Development
-* 📊 Data Analysis
-* 📈 Data Science
-* 🌐 Backend Development
-* 🤖 Machine Learning
-* 🗄️ SQL & Database Development
-* 💡 AI & Automation
-* 💻 Software Development
-
----
 
 # 📈 GitHub Stats
 
@@ -159,39 +126,6 @@ I'm interested in opportunities related to:
 </p>
 
 ---
-
-# 📚 My Development Journey
-
-```text
-🎓 Computer Science Engineering
-          │
-          ▼
-      🐍 Python
-          │
-          ▼
-   🌐 Web Development
-          │
-          ▼
-      🗄️ SQL / DB
-          │
-          ▼
-      🤖 AI / IoT
-          │
-          ▼
-    📊 Data Science
-          │
-          ▼
-   🚀 Real-World Projects
-```
-
----
-
-# 💡 My Philosophy
-
-> **Learn → Build → Break → Fix → Improve → Repeat.**
-
-I believe the best way to learn technology is through practical projects, problem solving, experimentation, and continuous improvement.
-
 ---
 
 # 🌐 Connect With Me
@@ -206,10 +140,6 @@ I believe the best way to learn technology is through practical projects, proble
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shalahthaikkadan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ### 📧 Email
@@ -220,9 +150,6 @@ I believe the best way to learn technology is through practical projects, proble
 
 **[linkedin.com/in/shalah-thaikkadan-40142b32b](https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/)**
 
-### 🐙 GitHub
-
-**[github.com/shalahthaikkadan](https://github.com/shalahthaikkadan)**
 
 ---
 
