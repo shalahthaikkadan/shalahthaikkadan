@@ -141,9 +141,7 @@ An AI-powered career discovery platform that provides personalized career pathwa
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shalahthaikkadan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 </p>
 
@@ -155,9 +153,6 @@ An AI-powered career discovery platform that provides personalized career pathwa
 
 **[linkedin.com/in/shalah-thaikkadan-40142b32b](https://www.linkedin.com/in/shalah-thaikkadan-40142b32b/)**
 
-### 🐙 GitHub
-
-**[github.com/shalahthaikkadan](https://github.com/shalahthaikkadan)**
 
 ---
 
