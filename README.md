@@ -117,39 +117,6 @@ An AI-powered career discovery platform that provides personalized career pathwa
 
 ---
 
-# 📊 Currently Learning
-
-```text
-🐍 Python
-   ↓
-🗄️ SQL
-   ↓
-📊 Data Analysis
-   ↓
-📈 Data Visualization
-   ↓
-🤖 Machine Learning
-   ↓
-🧠 Data Science
-   ↓
-🚀 Real-World Projects
-```
-
----
-
-# 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-* 🐍 Python Development
-* 📊 Data Analysis
-* 📈 Data Science
-* 🌐 Backend Development
-* 🤖 Machine Learning
-* 🗄️ SQL & Database Development
-* 💡 AI & Automation
-* 💻 Software Development
-
 ---
 
 # 📈 GitHub Stats
@@ -159,38 +126,6 @@ I'm interested in opportunities related to:
 </p>
 
 ---
-
-# 📚 My Development Journey
-
-```text
-🎓 Computer Science Engineering
-          │
-          ▼
-      🐍 Python
-          │
-          ▼
-   🌐 Web Development
-          │
-          ▼
-      🗄️ SQL / DB
-          │
-          ▼
-      🤖 AI / IoT
-          │
-          ▼
-    📊 Data Science
-          │
-          ▼
-   🚀 Real-World Projects
-```
-
----
-
-# 💡 My Philosophy
-
-> **Learn → Build → Break → Fix → Improve → Repeat.**
-
-I believe the best way to learn technology is through practical projects, problem solving, experimentation, and continuous improvement.
 
 ---
 
